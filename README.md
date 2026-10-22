@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 AI Pathfinding Visualizer
 
 An interactive visualization tool that compares Depth-First Search (DFS), Breadth-First Search (BFS), and A* search algorithms on maze pathfinding problems.
@@ -277,3 +278,7 @@ This project was created as an AI fundamentals demonstration, focusing on clarit
 ---
 
 **Happy Pathfinding! 🚀**
+=======
+# PathVisualiser
+PathVisualiser is an interactive application designed to demonstrate shortest-path and graph-search algorithms (like Dijkstra's, A*, BFS, and DFS) on a 2D grid. Users can draw obstacles, adjust endpoints, and watch real-time animations of node exploration and optimal pathfinding.
+>>>>>>> origin/main
